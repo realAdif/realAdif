@@ -5,7 +5,7 @@ I am Front End developer.
 --------------------------
 
 *   🌍  I'm based in Australia, Sydney
-*   🖥️  See my portfolio at <a target="_blank" rel="noreferrer" href='https://portolio-cyan-five.vercel.app/'>Portfolio</a>
+*   🖥️  See my portfolio at <a target="_blank" rel="noreferrer" href='adityagaikwad.dev'>Portfolio</a>
 *   🧠  Currently learning Next.js
 *   🤝  I'm open to collaborating on interesting projects as a developer
 
