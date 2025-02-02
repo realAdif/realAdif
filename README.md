@@ -1,14 +1,7 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Aditya Gaikwad
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Aditya
 ========================================================================================================================================
-
-I am a Front End developer.
 --------------------------
-
 *   🌍  I'm based in Australia, Sydney
-*   🖥️  See my portfolio at <a target="_blank" rel="noreferrer" href='https://portolio-aditya-gaikwad.vercel.app/'>Portfolio</a>
-*   🧠  Currently learning Next.js
-*   🤝  I'm open to collaborating on interesting projects as a developer
-
 # 💻 Tech Stack:
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
